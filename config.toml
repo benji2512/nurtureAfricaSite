@@ -76,43 +76,33 @@ body = "You may have already seen it, but there is a supporters section above wh
 
 [[params.three.feature]]
 icon = "fa-shirt"
-title = "Foo bar"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
-
-[[params.three.feature]]
-icon = "fa-headphones"
-title = "Baz kram"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+title = "Branded sweatshirts and t-shirts"
+body = "I will be wearing sweatshirts and t-shirts with company logos on them as purchasable ad space. Individuals can also purchase space on these garments if desired."
 
 [[params.three.feature]]
 icon = "fa-heart"
-title = "Some latin text"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
-
-[[params.three.feature]]
-icon = "fa-flag-o"
-title = "Nothing important"
-body = "Augue consectetur sed interdum imperdiet et ipsum. Mauris lorem tincidunt nullam amet leo Aenean ligula consequat consequat."
+title = "Your love and support"
+body = "You can still support Nurture Africa and my trip by simply spreading the word. Re-sharing social media posts, chatting with friends and family about the work we do, sending me questions you may have. All of these things help."
 
 [params.cta]
 enable = true
-title = "Arcue ut vel commodo"
-body = "Aliquam ut ex ut augue consectetur interdum endrerit imperdiet amet eleifend fringilla."
+title = "Donation Link ->"
+body = "If you would like to do some independant research of Nurture Africa and the wonderful work they do ->"
 
 [[params.cta.link]]
 href = "#"
-text = "Activate"
+text = "Donate"
 special = true
 
 [[params.cta.link]]
 href = "#"
-text = "Learn More"
+text = "Nurture Africa Homepage"
 special = false
 
 [params.contact]
 enable = true
 title = "Contact"
-body = "Leave us a message."
+body = "If you don't do social media and would like to contact me via email"
 phone = "+49 (0) 030 000 000"
 address = "1234 Somewhere Road<br />Some Place, Some State 0000<br />Some Country"
 email = "nospam@example.com"
@@ -120,9 +110,9 @@ subject = "New Submission!"
 formspree_form_id = "example_invalid"
 
 [params.social]
-twitter = ""
-facebook = ""
-instagram = ""
+twitter = "benjithedev"
+facebook = "ben.clarke32"
+instagram = "benjimanclarke96"
 dribble = ""
 
 # language specific options
@@ -130,7 +120,3 @@ dribble = ""
 [languages.en]
 weight = 0
 languageName = "English"
-
-[languages.de]
-weight = 10
-languageName = "Deutsch"
