@@ -101,13 +101,11 @@ special = false
 
 [params.contact]
 enable = true
-title = "Contact"
+title = "Get in touch with me."
 body = "If you don't do social media and would like to contact me via email"
-phone = "+49 (0) 030 000 000"
-address = "1234 Somewhere Road<br />Some Place, Some State 0000<br />Some Country"
-email = "nospam@example.com"
-subject = "New Submission!"
-formspree_form_id = "example_invalid"
+email = "ben.clarke14@gmail.com"
+subject = "Nurture Africa Enquiry"
+formspree_form_id = "xwkjkzkj"
 
 [params.social]
 twitter = "benjithedev"
