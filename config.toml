@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Spectral"
+title = "Ben's Nurture Africa Trip"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 paginate = "7"
@@ -10,7 +10,7 @@ fancyTitle = "Ben's Nurture Africa Trip" # title for frontpage, may include imag
 copyright = "Ben Clarke"
 description = 'I am off to Uganda again and I need your help'
 startbuttonText = "Donate to the Cause"
-startbuttonLink = "#"
+startbuttonLink = "https://www.idonate.ie/fundraiser/bensnurtureafricafund"
 body_is_markdown = true
 #custom_css = "foo.css"
 #images = ["path_to_social_image_for_link_previews.jpg"]
@@ -33,7 +33,7 @@ enable = true
 title = 'Why am I going again?'
 body = '''
 Well, I have 2 reasons. 1 being pretty selfish and 1 being genuine.  
-1 - **I feel like I have something to offer in the technology space since my graduation and subsequent employment**  
+1 - **I feel like I have something to offer in the technology and employment space since my graduation and subsequent full-time employment**  
 2 - **I want to see how Nansana has improved since I was last there(This is the selfish reason)**  
   
 Below are some of my favourite memories I have from my last time in Nansana in 2016  
@@ -43,19 +43,19 @@ Below are some of my favourite memories I have from my last time in Nansana in 2
 enable = true
 
 [[params.two.section]]
-img = "img/pic01.jpg"
-title = 'Add an memorable image here'
-body = 'Description of image here'
+img = "img/nurtureAfricaTalkBlurred.png"
+title = 'Personal Hygenie, Sexual Health and Reproducion Education'
+body = 'During my time in Africa, I got the opportunity to give talks to students about personal hygenie, sexual health and reproduction. These talks are vital for young people as there are many reservations and untruths told to young people in this area,'
 
 [[params.two.section]]
-img = "img/pic02.jpg"
-title = 'Add an memorable image here'
-body = 'Description of image here'
+img = "img/smallBusinessBlurred.png"
+title = 'Helping Small Businesses'
+body = 'Here, my fellow volunteers and I visited a woman in a local village who Nurture Africa helped finance her small business renting plastic chairs for special occassions. Nurture Africa helps these villages manage the repayments and help with any further investments they may seek.'
 
 [[params.two.section]]
-img = "img/pic03.jpg"
-title = 'Add an memorable image here'
-body = 'Description of image here'
+img = "img/compLibraryBuildNA.jpg"
+title = 'Building a Computer Library'
+body = 'One of my main jobs while on my last adventure in Uganda was to help build a computer library. We started by putting down the stone and levelling it for the base of the floor and start the construction of the walls up to the level of the windows. This exact building pictured is where I am going to continue my adventure this time around.'
 
 [params.three]
 enable = true
@@ -86,16 +86,16 @@ body = "You can still support Nurture Africa and my trip by simply spreading the
 
 [params.cta]
 enable = true
-title = "Donation Link ->"
-body = "If you would like to do some independant research of Nurture Africa and the wonderful work they do ->"
+title = "Donation Link"
+body = "If you would like to do some independant research of Nurture Africa and the wonderful work they do"
 
 [[params.cta.link]]
-href = "#"
+href = "https://www.idonate.ie/fundraiser/bensnurtureafricafund"
 text = "Donate"
-special = true
+special = false
 
 [[params.cta.link]]
-href = "#"
+href = "https://www.nurtureafrica.ie/"
 text = "Nurture Africa Homepage"
 special = false
 
