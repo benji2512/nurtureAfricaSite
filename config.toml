@@ -57,6 +57,13 @@ img = "img/compLibraryBuildNA.jpg"
 title = 'Building a Computer Library'
 body = 'One of my main jobs while on my last adventure in Uganda was to help build a computer library. We started by putting down the stone and levelling it for the base of the floor and start the construction of the walls up to the level of the windows. This exact building pictured is where I am going to continue my adventure this time around.'
 
+[params.supporters]
+enable = true
+title = 'Supporters Wall'
+body = '''
+Below are people who have contributed to this fundraising effort in some way:
+'''
+
 [params.three]
 enable = true
 title = 'So how can you help?'
