@@ -6,5 +6,5 @@ ToDo:
 - [x] Change colour of fundraising section
 - [x] Make contact section work correctly
 - [x] Secure a domain name
-- [ ] Publish site
+- [x] Publish site
 - [ ] Publish first blog post
