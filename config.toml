@@ -44,24 +44,25 @@ enable = true
 
 [[params.two.section]]
 img = "img/nurtureAfricaTalkBlurred.png"
-title = 'Personal Hygenie, Sexual Health and Reproducion Education'
-body = 'During my time in Africa, I got the opportunity to give talks to students about personal hygenie, sexual health and reproduction. These talks are vital for young people as there are many reservations and untruths told to young people in this area,'
+title = 'First Aid, Personal Hygenie, Sexual Health and Reproducion Education'
+body = 'During my time in Africa, I got the opportunity to give talks to students about personal hygenie, sexual health and reproduction. These talks are vital for young people as there are many reservations and untruths told to young people in this area. The First Aid workshops are vital for community members to ensure basic first aid knowledge is attained and understood for personal and community safety.'
 
 [[params.two.section]]
 img = "img/smallBusinessBlurred.png"
 title = 'Helping Small Businesses'
-body = 'Here, my fellow volunteers and I visited a woman in a local village who Nurture Africa helped finance her small business renting plastic chairs for special occassions. Nurture Africa helps these villages manage the repayments and help with any further investments they may seek.'
+body = 'Nurture Africa empowers community members to earn their own money by way of small businesses through community loans that are managed by an elected local committee to teach good business practises with that aim of help villaged grow of their own accord.'
 
 [[params.two.section]]
 img = "img/compLibraryBuildNA.jpg"
 title = 'Building a Computer Library'
-body = 'One of my main jobs while on my last adventure in Uganda was to help build a computer library. We started by putting down the stone and levelling it for the base of the floor and start the construction of the walls up to the level of the windows. This exact building pictured is where I am going to continue my adventure this time around.'
+body = 'One of my main jobs as part of the General Skills placement  was to help build a computer library. We started by putting down the stone and levelling it for the base of the floor and start the construction of the walls up to the level of the windows. This exact building pictured is where I am going to continue my adventure this time around.'
 
 [params.supporters]
 enable = true
 title = 'Supporters Wall'
 body = '''
-Below are people who have contributed to this fundraising effort in some way:
+Below are people who have contributed to this fundraising effort in some way:  
+Ben Clarke
 '''
 
 [params.three]
