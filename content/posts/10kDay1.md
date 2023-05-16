@@ -1,7 +1,7 @@
 ---
 title: "10km for 10 Days: Day 1"
 date: 2023-05-16T16:52:23+01:00
-draft: true
+draft: false
 ---
 
 Today(Actually yesterday at day of publication) marks day 1 of my first fundraising venture for my return to Uganda.
