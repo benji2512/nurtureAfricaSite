@@ -1,7 +1,7 @@
 ---
 title: "10km for 10 Days: Day 2"
 date: 2023-05-17T22:12:14+01:00
-draft: true
+draft: false
 ---
 
 Tuesday, 16 May 2023 was day 2 of running 10 kilometers for 10 days in a bid to raise as much money and attention for Nurture Africa. Lovely warm day made the run pleasant but also made it harder. The added 10 minutes in the sea starts out with me being a stuttering mess and within 1 minute being calm and enjoying the cold.  
