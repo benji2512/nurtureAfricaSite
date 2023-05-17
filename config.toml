@@ -62,7 +62,12 @@ enable = true
 title = 'Supporters Wall'
 body = '''
 Below are people who have contributed to this fundraising effort in some way:  
-Ben Clarke
+Ben Clarke  
+Michael Duncan  
+Laura Kehoe  
+Celine  
+Anne and Jim Egan  
+Tina and John Clarke  
 '''
 
 [params.three]
