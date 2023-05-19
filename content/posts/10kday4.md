@@ -1,7 +1,7 @@
 ---
 title: "10km for 10 Days: Day 4"
 date: 2023-05-19T21:03:20+01:00
-draft: true
+draft: false
 ---
 
 Thursday, 18th May was day 4 and by far the toughest day so far.  
