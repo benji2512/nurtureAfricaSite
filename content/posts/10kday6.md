@@ -12,7 +12,7 @@ Before I dive into the first Nurture Africa initiative, let me reiterate what Nu
 We lift vulnerable women and children out of poverty, empowering them to achieve self-sufficiency through a holistic family-centered model that is both cost-effective and replicable
 
 What is a holistic family-centered model?  
-{{< figure src="/img/NurtureAfricaHolisitcApproch.png" width="800px" >}}
+{{< figure src="/img/NurtureAfricaHolisitcApproch.png" width="100%" >}}
 
 Now, my first initiative I want to go over is Nurture Africa's **Healthcare**. This is broken down into 4 sections:
 1. HIV Healthcare
